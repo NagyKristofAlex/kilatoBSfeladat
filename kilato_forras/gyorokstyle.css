@@ -1,0 +1,16 @@
+body{
+    background-image: url(back.jpg);
+    background-size: cover;
+    
+}
+
+#cimer{
+    background-image: url(panorama.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.magas{
+    height: 190px;
+    vertical-align: middle;
+}
